@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm 1nfinit0</h1>
 <h3 align="center"><b><i>Programming concepts and logic are the most crucial elements.</i></b></h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour+Convergence&letterSpacing=.2rem&duration=1&pause=600&center=true&vCenter=true&width=400&height=70&lines=B+i+e+n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB++++++++++;i+e+n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+;e+n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i;n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e;v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n;e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v;n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e;i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e+n;d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e+n+i;%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e+n+i+d;!+!++%F0%9F%91%BB+B+i+e+n+v+e+n+i+d+%40+;!++%F0%9F%91%BB+B+i+e+n+v+e+n+i+d+%40+!;%F0%9F%91%BB+B+i+e+n+v+e+n+i+d+%40+!+!++" style="width: 100%;" alt="Typing SVG">
+
 - 🔭 I’m currently working as a **Math and ICT Teacher**
 
 - 🌱 I’m currently learning **GIS Technologies**
@@ -17,7 +18,7 @@
 
 - 📄 Learn more about my experiences [through my projects](https://1nfinit0.github.io/Huatay/)
 
-- ⚡ Fun fact: **I have a fondness for Arch-penguins**
+- ⚡ Fun fact: **I use arch btw**
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=1nfinit0&theme=tokyonight_duo&hide_border=true"
