@@ -4,7 +4,7 @@ date: May. 2023
 languages: [Javascript, Python, Leaflet, PL/pgSQL]
 repo: https://github.com/1nfinit0/LomasDeParaisoGeoPortal
 live: https://1nfinit0.github.io/LomasDeParaisoGeoPortal/
-img: /img/paraiso.png
+img: /1nfinit0/img/paraiso.png
 ---
 
 Un Geo-portal web del área de conservación regional "Lomas de Paraíso" que pretende adoptar los estándares de una IDE presentando información geoespacial de manera libre e información de las diferentes actividades afines. **Este proyecto se enfoca en la implementación de un geoportal web para la visualización de información geográfica y actividades de conservación**.

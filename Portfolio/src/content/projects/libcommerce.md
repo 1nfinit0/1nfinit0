@@ -4,7 +4,7 @@ date: Mar. 2023
 languages: [JavaScript, HTML, CSS]
 repo: https://github.com/1nfinit0/LibCommerce
 live: https://1nfinit0.github.io/LibCommerce/
-img: /img/libcommerce.png
+img: /1nfinit0/img/libcommerce.png
 ---
 
 LibCommerce es un proyecto funcional de un E-commerce que no requiere de una base de datos ni despliegue en servidor. **Este proyecto se enfoca en la implementación de un carrito de compras y un catálogo de productos**. LibCommerce permite al usuario agregar productos al carrito, visualizar el carrito y eliminar productos del carrito. Además, **LibCommerce permite al usuario visualizar el catálogo de productos y ver detalles de cada producto**.

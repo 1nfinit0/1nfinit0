@@ -4,7 +4,7 @@ date: Feb. 2024
 languages: [JavaScript, HTML, CSS, Leaflet, Geoserver, PostGIS]
 repo: https://github.com/1nfinit0/cartofy
 live: https://1nfinit0.github.io/cartofy/
-img: /img/cartofy.png
+img: /1nfinit0/img/cartofy.png
 ---
 
 Cartofy es un proyecto enfocado en la consulta tabular, visualización y descarga de información geográfica. Desarrollado bajo el enfoque de los sistemas de información geográfica (SIG), **este proyecto plantea una solución para la visualización de datos geográficos en la web**. Cartofy permite la visualización de datos geográficos en formato vectorial y raster, así como la consulta de información tabular asociada a los elementos geográficos. Además, **Cartofy permite la descarga de la información geográfica en formato vectorial y raster**, así como la descarga de la información tabular asociada a los elementos geográficos.

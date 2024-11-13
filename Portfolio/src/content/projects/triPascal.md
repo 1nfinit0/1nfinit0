@@ -4,7 +4,7 @@ date: Sep. 2024
 languages: [Python]
 repo: https://github.com/1nfinit0/triPascal
 live: https://github.com/1nfinit0/triPascal
-img: /img/triPascal.png
+img: /1nfinit0/img/triPascal.png
 ---
 
 Este proyecto implementa un **Triángulo de Pascal** usando Python, explora la conexión entre conceptos como **el teorema de Newton** y **coeficientes binomiales**.
