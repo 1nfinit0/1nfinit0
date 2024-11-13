@@ -1,0 +1,49 @@
+---
+// Content.astro
+
+import { getCollection } from 'astro:content';
+
+const projects = await getCollection('projects');
+---
+<div class="w-full bg-[rgb(19,21,26)] bg-gradient-to-b from-[rgb(19,21,26)] to-[rgb(17,24,39)] mb-12">
+<section id="portafolio" aria-label="Proyectos recomendados" class="mx-auto px-4 sm:px-6 lg:px-8 max-w-5xl">
+  <div class="px-4 py-6 mx-auto place-items-end">
+    <span class="bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-pink-500 font-semibold text-lg">Portafolio de proyectos</span>
+    <h2 class="max-w-screen-lg text-balance font-light font-heading text-4xl md:leading-tight">Aquí dejé mis huellas...</h2>
+  </div>
+  <div class="px-4 mx-auto max-w-5xlq">
+    <div class="grid gap-6 md:grid-cols-2 place-items-center">
+      {
+        projects.map(project => {
+          const { slug, data } = project;
+          const { title, date, languages, repo, live, img } = data;
+          
+          return (
+          <a href={`/proyecto/${slug}`} class="block max-w-sm w-full my-8 h-96">
+            <article class="hover:animate-background rounded-xl bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 p-0.5 shadow-md transition hover:bg-[length:400%_400%] hover:shadow-white hover:[animation-duration:_4s]">
+              <div transition:name={`img-${img}`} class="h-60 bg-cover rounded-t-xl opacity-90" style={`background-image: url(${img})`}></div>
+
+              <div class="bg-gray-900 p-4 sm:p-6 rounded-b-xl min-h-40">
+                <time datetime={date} class="text-gray-500 dark:text-white text-xs">{date}</time>
+
+                <h3 transition:name={`title-${slug}`} class="block text-teal-600 dark:text-teal-300 font-josefin italic text-xl py-3">
+                  {title}
+                </h3>
+
+                <div class="flex flex-wrap gap-1">
+                  {languages.map((language, index) => (
+                    <span class="whitespace-nowrap rounded-full bg-teal-900 px-2.5 py-0.5 text-xs text-teal-100">
+                      {language}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </article>
+          </a>
+          );
+        })
+      }      
+    </div>   
+  </div>
+</section>
+</div>

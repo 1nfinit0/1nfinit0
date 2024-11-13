@@ -1,0 +1,41 @@
+---
+// Section.astro
+---
+<section
+  class="bg-[url(/img/banner.jpeg)] bg-cover bg-left bg-no-repeat max-h-[600px] h-full relative "
+>
+  <div class="absolute inset-0 bg-black bg-opacity-50"></div>
+
+  <div
+    class="mx-auto max-w-5xl flex py-16 px-4 sm:px-6 lg:px-8 items-center justify-center h-full relative z-10"
+  >
+    <div class="max-w-xl text-center">
+      <p class="text-white">Hola, soy</p>
+      <h1 class="text-3xl font-extrabold text-white sm:text-5xl">
+        Luis
+        <strong class="block font-extrabold text-teal-600 dark:text-teal-300"> Huatay. </strong>
+      </h1>
+      
+      <div class="my-8 flex justify-center">
+        <a
+        class="inline-block rounded bg-teal-600 px-8 py-3 text-sm font-medium text-white transition hover:scale-110 hover:shadow-xl focus:outline-none focus:ring active:bg-teal-600"
+        href="#contacto"
+        >
+        Contacto
+      </a>
+      </div>
+      <p class="text-astro-gray-1280 font-light text-base text-balance py-3">
+        Conocimientos y habilidades:
+      </p> 
+
+      <div class="flex flex-wrap lg:flex-nowrap items-center justify-center gap-x-8 gap-y-6 px-4 max-w-96">
+        <img class="h-6 invert opacity-70" src="/public/icons/javascript-155-svgrepo-com.svg" alt="JS">
+        <img class="h-6 invert opacity-70" src="/public/icons/python-127-svgrepo-com.svg" alt="JS">
+        <img class="h-6 invert opacity-70" src="/public/icons/linux-svgrepo-com.svg" alt="JS">
+        <img class="h-6 invert opacity-70" src="/public/icons/github-01-svgrepo-com.svg" alt="JS">
+        <img class="h-6 invert opacity-70" src="/public/icons/qgis-svgrepo-com.svg" alt="JS">
+        <img class="h-6 invert opacity-70" src="/public/icons/functions-svgrepo-com.svg" alt="JS">
+      </div>
+
+    </div>
+</section>
