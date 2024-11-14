@@ -6,5 +6,5 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://1nfinit0.github.io',
-  base: '1nfinit0',
+  base: '/1nfinit0/',
 });
