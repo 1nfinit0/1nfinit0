@@ -28,15 +28,12 @@
 
 I collaborated as a **GIS developer** in this non-profit project aimed at fostering the economic development of the region while improving the conservation status of thousands of reforested Tara trees. My main responsibilities included **georeferencing** and **map development**. The project made a significant impact by contributing to both environmental preservation and the local economy.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lhuatay" target="blank"><img filter="invert(100%)" align="center" src="https://www.svgrepo.com/show/354000/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect:</h3>
 
 <div align="center">
 <div align="center">
-<a href="[https://twitter.com/👽](https://x.com/1nfyT)" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="[https://www.youtube.com/👽](https://www.youtube.com/@1nfyTobi)" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
+<a href="https://x.com/1nfyT" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.youtube.com/@1nfyTobi" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhuatay/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽hsluis4326@gmail.com)
