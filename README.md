@@ -39,7 +39,6 @@ I collaborated as a **GIS developer** in this non-profit project aimed at foster
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽hsluis4326@gmail.com)
 </div>
 
-<h3 align="left">Skills:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" draggable="false"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" draggable="false"/>
