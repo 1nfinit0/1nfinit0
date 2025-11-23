@@ -1,44 +1,62 @@
-<h1 align="center">Hi 👋, I'm 1nfinit0</h1>
-<h3 align="center"><b><i>Programming concepts and logic are the most crucial elements.</i></b></h3>
-<img src="https://readme-typing-svg.herokuapp.com?font=Sixtyfour+Convergence&letterSpacing=.2rem&duration=1&pause=600&center=true&vCenter=true&width=400&height=70&lines=B+i+e+n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB++++++++++;i+e+n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+;e+n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i;n+v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e;v+e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n;e+n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v;n+i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e;i+d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e+n;d+%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e+n+i;%40+!+!++%F0%9F%91%BB+B+i+e+n+v+e+n+i+d;!+!++%F0%9F%91%BB+B+i+e+n+v+e+n+i+d+%40+;!++%F0%9F%91%BB+B+i+e+n+v+e+n+i+d+%40+!;%F0%9F%91%BB+B+i+e+n+v+e+n+i+d+%40+!+!++](https://readme-typing-svg.herokuapp.com?font=Sixtyfour+Convergence&letterSpacing=.3rem&duration=1&pause=600&center=true&vCenter=true&height=70&lines=W+e+l+c+o+m+e+!+!++%F0%9F%91%BB+;e+l+c+o+m+e+!+!++%F0%9F%91%BB+W+;l+c+o+m+e+!+!++%F0%9F%91%BB+W+e+;c+o+m+e+!+!++%F0%9F%91%BB+W+e+l+;o+m+e+!+!++%F0%9F%91%BB+W+e+l+c+;m+e+!+!++%F0%9F%91%BB+W+e+l+c+o+;e+!+!++%F0%9F%91%BB+W+e+l+c+o+m+;!+!++%F0%9F%91%BB+W+e+l+c+o+m+e;!++%F0%9F%91%BB+W+e+l+c+o+m+e+!+;%F0%9F%91%BB+W+e+l+c+o+m+e+!+!+" style="width: 100%;" alt="Typing SVG">
+# Luis Huatay — Especialista SIG, Geomática y Desarrollo de Software
 
-- 🔭 I’m currently working as a **Math and ICT Teacher**
+![header](https://img.shields.io/badge/Geo--Dev-Open%20to%20collab-blueviolet)
 
-- 🌱 I’m currently learning **GIS Technologies**
+Soy especialista en Geomática con experiencia en Sistemas de Información Geográfica (SIG), teledetección y desarrollo de software geoespacial. Me enfoco en automatizar flujos de trabajo geoespaciales, crear plataformas web de mapas y aplicar Machine Learning a problemas ambientales y agrícolas.
 
-- 👯 I’m looking to collaborate on **non-profit environmental projects**
+## Contacto rápido
 
-- 👨‍💻 You can check out all my projects on my [GitHub Profile](https://github.com/1nfinit0?tab=repositories)
+- 📧 <hsluis4326@gmail.com>
 
-- 📝 I regularly write articles on [WebMap Service](https://1nfinit0.github.io/cartofy/)
+- 📍 Lima, Perú
 
-- 💬 Feel free to ask me about **PostgreSQL, GIS, Python, ArchLinux**
+- LinkedIn: <https://www.linkedin.com/in/lhuatay/>
 
-- 📫 Reach me at **noggnzzz@gmail.com**
+- ORCID: <https://orcid.org/0009-0006-2004-4918>
 
-- 📄 Learn more about my experiences [through my projects](https://1nfinit0.github.io/Huatay/)
+## Resumen breve
+>
+> Ingeniero en formación y técnico en Geomática. Experiencia práctica en proyectos de digitalización cartográfica, análisis espacial para infraestructura y conservación, y en la implementación de plataformas web para la visualización cartográfica. Trabajo con Google Earth Engine, PostGIS, Python y JavaScript para producir soluciones reproducibles y escalables.
 
-- ⚡ Fun fact: **I use arch btw**
+## Habilidades principales
 
-<p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=1nfinit0&theme=tokyonight_duo&hide_border=true"
-</p>
+- Google Earth Engine
+- Python (Geopandas, Rasterio, scikit-learn)
+- JavaScript (Leaflet, APIs REST)
+- PostgreSQL / PostGIS, PL/pgSQL
+- QGIS / ArcGIS
+- Git & GitHub
+- Geoserver, Docker básico
+- HTML / CSS, LaTeX
+- Linux/ArchLinux
 
-### 🌍 LP - Lomas Costeras Project
+## Herramientas y tecnologías
 
-I collaborated as a **GIS developer** in this non-profit project aimed at fostering the economic development of the region while improving the conservation status of thousands of reforested Tara trees. My main responsibilities included **georeferencing** and **map development**. The project made a significant impact by contributing to both environmental preservation and the local economy.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://earthengine.google.com/)
+[![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=for-the-badge)](https://postgis.net/)
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge)](https://qgis.org/)
 
+<<<<<<< HEAD
 <h3 align="left">Connect:</h3>
 
 <div align="center">
 <div align="center">
 <a href="https://x.com/1nfyT" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://www.youtube.com/@1nfyTobi" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
+=======
+## Proyectos y publicaciones destacadas
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lhuatay/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽hsluis4326@gmail.com)
-</div>
+- **PE501088121-2024** (2025) — Aplicación GEE para clasificación de cobertura agrícola (CONCYTEC-PROCIENCIA). Enlace: <https://ee-hsluis4326.projects.earthengine.app/view/utpndvivstsmap>
+- **Spatio-Temporal Changes in Agricultural Areas Under El Niño Events** (Springer - CSOC 2025). DOI: <https://doi.org/10.1007/978-3-032-04581-2_25>
+- **Modeling Oceanic Anomalies and Vegetation Dynamics in Northern Peru** (MDPI - Climate) — revisión (2025)
+- **Clasificación de Cobertura Agrícola** (2025) — Repositorio: <https://github.com/1nfinit0/AlphaEarth-RandomForest-classifier---Lambayeque>
+- **Líder Semillero de Investigación en Ciencia de Datos Geo4All** (2025)
+>>>>>>> a514263 (november update)
 
+## Cómo puedo ayudar
+
+<<<<<<< HEAD
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" draggable="false"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" draggable="false"/>
@@ -46,3 +64,15 @@ I collaborated as a **GIS developer** in this non-profit project aimed at foster
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" draggable="false"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" draggable="false"/>
 </p>
+=======
+- Desarrollo de pipelines reproducibles en Google Earth Engine y Python.
+- Diseño e implementación de bases de datos espaciales con PostGIS.
+- Modelos de clasificación supervisada para agricultura y monitoreo ambiental.
+
+## ¿Te interesa colaborar?
+
+Si quieres revisar código, ver demos o discutir una colaboración, abre un issue o envíame un correo. Referencias disponibles a solicitud.
+
+---
+
+_Actualizado: Noviembre 2025_
