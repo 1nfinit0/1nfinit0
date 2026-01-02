@@ -14,7 +14,6 @@ Soy especialista en Geomática con experiencia en Sistemas de Información Geogr
 
 - ORCID: <https://orcid.org/0009-0006-2004-4918>
 
-## Resumen breve
 >
 > Ingeniero en formación y técnico en Geomática. Experiencia práctica en proyectos de digitalización cartográfica, análisis espacial para infraestructura y conservación, y en la implementación de plataformas web para la visualización cartográfica. Trabajo con Google Earth Engine, PostGIS, Python y JavaScript para producir soluciones reproducibles y escalables.
 
