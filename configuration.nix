@@ -103,7 +103,7 @@
 
 	#Allow Privative Software
 
-	nixpkgs.config.allowUnFree = true;
+	nixpkgs.config.allowUnfree = true;
 
 	#-v
 
